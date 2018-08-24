@@ -1,5 +1,5 @@
 //this command is for testecleus only 
-
+//this is the invite command 
 exports.run = async (client, message, args) => {
     message.channel.send ("https://discordapp.com/oauth2/authorize?client_id=455770647977525248&scope=bot&permissions=8")
 };
