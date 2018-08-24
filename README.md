@@ -1,1 +1,1 @@
-# Affinity this is are command examples 
+# Affinity these are command examples 
