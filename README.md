@@ -1,1 +1,1 @@
-# Affinity these are command examples 
+# aversion these are command examples 
